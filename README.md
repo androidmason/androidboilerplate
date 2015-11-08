@@ -1,0 +1,2 @@
+# androidboilerplate
+This repository is intended to make available all the boilerplate code used in most of the android apps developed these days. The projects in this repository can be used into your new android application with a minimal or no configuration. The intention being code reusability and focussing on business specific code which would save a lot of time required to write boiler plate code.
